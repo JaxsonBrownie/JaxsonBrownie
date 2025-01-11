@@ -1,3 +1,4 @@
 ```
-Second year student studying Computer Science at Curtin University. ☕
+Fourth year Advanced Computer Sciecnce student at Curtin University
+Email me at: jokesene@outlook.com for any inquiries.
 ```
